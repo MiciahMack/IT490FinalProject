@@ -1,0 +1,286 @@
+ "year": "2012"
+ "cover_image": "https://img.discogs.com/7PU2yjW0xCrWp3fccab__p8qKmw=/fit-in/600x338/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3453739-1330975585.jpeg.jpg"
+ "title": "Maduk ft Veela - Ghost Assassin (Hourglass Bonusmix)"
+ "label": ["Not On Label (Maduk Self-released)"
+ {"style": ["Drum n Bass"]
+ "country": "Netherlands"
+ "year": "2012"
+ "cover_image": "https://img.discogs.com/7PU2yjW0xCrWp3fccab__p8qKmw=/fit-in/600x338/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3453739-1330975585.jpeg.jpg"
+ "title": "Maduk ft Veela - Ghost Assassin (Hourglass Bonusmix)"
+ "label": ["Not On Label (Maduk Self-released)"
+ {"style": ["Drum n Bass"]
+ "country": "Netherlands"
+ "year": "2012"
+ "cover_image": "https://img.discogs.com/y5I-2gs1YZuHvi1AzFgB9-HYQUg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6018549-1408956997-8730.jpeg.jpg"
+ "title": "Maduk - Ghost Assassin EP"
+ "label": ["Celsius Recordings"]
+ {"style": ["Drum n Bass"]
+ "country": "Netherlands"
+ "year": "2014"
+ "cover_image": "https://img.discogs.com/jdjqpkLB3-cOv19vk3KHqs4PYFE=/fit-in/600x750/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6045904-1409673049-8750.jpeg.jpg"
+ "title": "Maduk ft Veela - Ghost Assassin VIP"
+ "label": ["Not On Label (Maduk Self-released)"]
+ {"style": ["UK Garage"]
+ "country": "UK"
+ "year": "2001"
+ "cover_image": "https://img.discogs.com/oh1WfcXIkoCwjODdYQIavfOmBuY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-508521-1430060232-3751.jpeg.jpg"
+ "title": "Singing Melody - If U Like It (The Beat Assassins & Ghost (El-B) Remixes)"
+ "label": ["Cherry Pie Records"]
+ {"style": ["Drum n Bass"]
+ "country": "UK"
+ "year": "2013"
+ "cover_image": "https://img.discogs.com/EJYOLqmK1cj4xowWAZpoWgZUMpw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5209850-1476456339-7187.jpeg.jpg"
+ "title": "Maduk - Believe EP"
+ "label": ["Liquicity Records"]
+ {"style": ["Folk Rock"
+ "country": "Sweden"
+ "year": "2005"
+ "cover_image": "https://img.discogs.com/FBZ8asMqShQPPyZbBT6aKhfZfYw=/fit-in/296x270/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1040349-1187196578.jpeg.jpg"
+ "title": "Junip - Black Refuge EP"
+ "label": ["Teme Shet"]
+ {"style": ["Techno"]
+ "country": "Germany"
+ "year": "1996"
+ "cover_image": "https://img.discogs.com/ONvQBIfV-toWu_99nmA3QXPuDRs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-29727-1167322520.jpeg.jpg"
+ "title": "Holy Ghost* - The Mind Control Of Candy Jones"
+ "label": ["Tresor"]
+ {"style": ["Folk Rock"
+ "country": "Sweden"
+ "year": "2005"
+ "cover_image": "https://img.discogs.com/_CKi3p4wcoXIJWjTGs432aonwco=/fit-in/296x270/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-974660-1181122965.jpeg.jpg"
+ "title": "Junip - Black Refuge EP"
+ "label": ["Teme Shet"
+ {"style": ["Techno"]
+ "country": "Germany"
+ "year": "1996"
+ "cover_image": "https://img.discogs.com/FFsPOtBj4ypEjYG3cIPayqpx1QY=/fit-in/568x561/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-18462-1236150595.jpeg.jpg"
+ "title": "Holy Ghost* - The Mind Control Of Candy Jones"
+ "label": ["Tresor"
+ {"style": ["House"
+ "country": "Germany"
+ "year": "2009"
+ "cover_image": "https://img.discogs.com/I8xogLlybX6urfzTfLZWwchEa8o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2019028-1258977415.jpeg.jpg"
+ "title": "Golden Bug - Assassin"
+ "label": ["Bang Gang 12 Inches"]
+ {"style": ["Techno"]
+ "country": "Germany"
+ "year": "1996"
+ "cover_image": "https://img.discogs.com/FFsPOtBj4ypEjYG3cIPayqpx1QY=/fit-in/568x561/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-18462-1236150595.jpeg.jpg"
+ "title": "Holy Ghost* - The Mind Control Of Candy Jones"
+ "label": ["Tresor"
+ {"style": ["House"]
+ "country": "US"
+ "year": "1995"
+ "cover_image": "https://img.discogs.com/o1529FmXnkTwoK0z8D2DimgEmUg=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-33271-1173444282.jpeg.jpg"
+ "title": "Kanabis The Edit Assassin - Feel"
+ "label": ["Makin' Madd Records"
+ {"style": ["House"]
+ "country": "US"
+ "year": "1995"
+ "cover_image": "https://img.discogs.com/o1529FmXnkTwoK0z8D2DimgEmUg=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-33271-1173444282.jpeg.jpg"
+ "title": "Kanabis The Edit Assassin - Feel"
+ "label": ["Makin' Madd Records"
+ {"style": ["Folk Rock"
+ "country": "Sweden"
+ "year": "2005"
+ "cover_image": "https://img.discogs.com/_CKi3p4wcoXIJWjTGs432aonwco=/fit-in/296x270/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-974660-1181122965.jpeg.jpg"
+ "title": "Junip - Black Refuge EP"
+ "label": ["Teme Shet"
+ {"style": ["Dancehall"]
+ "country": "Jamaica"
+ "year": "2003"
+ "cover_image": "https://img.discogs.com/svWt4S2YZ0vFu-mHN3QnZhmHoO0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3483659-1476283668-8436.jpeg.jpg"
+ "title": "Assassin / Ghost (6) / General B - Dem No Know We / Shame"
+ "label": ["Big Jeans Records"]
+ {"style": ["Dancehall"]
+ "country": "Jamaica"
+ "year": "2003"
+ "cover_image": "https://img.discogs.com/svWt4S2YZ0vFu-mHN3QnZhmHoO0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3483659-1476283668-8436.jpeg.jpg"
+ "title": "Assassin / Ghost (6) / General B - Dem No Know We / Shame"
+ "label": ["Big Jeans Records"]
+ {"style": ["Goth Rock"]
+ "country": "UK"
+ "year": "1989"
+ "cover_image": "https://img.discogs.com/WGrq-gF7QA2kv-Ndvz3mh8fe-wg=/fit-in/351x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-410932-1109752589.jpg.jpg"
+ "title": "Every New Dead Ghost - River Of Souls"
+ "label": ["Plastic Head Records Limited"
+ {"style": ["Goth Rock"]
+ "country": "UK"
+ "year": "1989"
+ "cover_image": "https://img.discogs.com/WGrq-gF7QA2kv-Ndvz3mh8fe-wg=/fit-in/351x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-410932-1109752589.jpg.jpg"
+ "title": "Every New Dead Ghost - River Of Souls"
+ "label": ["Plastic Head Records Limited"
+ {"style": []
+ "country": "US"
+ "year": "1995"
+ "cover_image": "https://img.discogs.com/IUgamqW7FHy3KDECnV9a2fknWN8=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-245655-1358664783-9713.jpeg.jpg"
+ "title": "Raekwon Featuring Tony Starks
+ "label": ["Loud Records"
+ {"style": ["Goth Rock"]
+ "country": "France"
+ "year": "1990"
+ "cover_image": "https://img.discogs.com/Byn7jgKcOgYE27wY1BOE1F7VZuI=/fit-in/360x365/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2417084-1282918641.jpeg.jpg"
+ "title": "Every New Dead Ghost - Insanity Live"
+ "label": ["Nuisances"]
+ {"style": ["Techno"]
+ "country": "Germany"
+ "year": "1996"
+ "cover_image": "https://img.discogs.com/IbonfQg_KCsV1wueHKaujoT3v24=/fit-in/600x829/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2568751-1476986288-1994.jpeg.jpg"
+ "title": "Holy Ghost* - The Mind Control Of Candy Jones"
+ "label": ["Tresor"]
+ {"style": ["Goth Rock"]
+ "country": "US"
+ "year": "1995"
+ "cover_image": "https://img.discogs.com/vXmmBdunID8X6n07rvJQjjyEkgw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1443798-1220153513.jpeg.jpg"
+ "title": "Apocalypse Theatre - Angry Angels"
+ "label": ["Apocalypse Press"]
+ {"style": []
+ "country": "US"
+ "year": "2012"
+ "cover_image": "https://img.discogs.com/IRc8Gg6SBWAa8QpnFL_u3GZRGU4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3886136-1366023418-7977.jpeg.jpg"
+ "title": "Chef Raekwon* - Only Built 4 Cuban Linx..."
+ "label": ["Get On Down"
+ {"style": ["House"]
+ "country": "US"
+ "year": "1995"
+ "cover_image": "https://img.discogs.com/images/spacer.gif"
+ "title": "Kanabis The Edit Assassin - Feel"
+ "label": ["Makin' Madd Records"
+ {"style": []
+ "country": "UK"
+ "year": "2007"
+ "cover_image": "https://img.discogs.com/9cUX1KbzQ7R8MTSP0s47uCpm4yQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1833117-1246483504.jpeg.jpg"
+ "title": "John Cooper Clarke - Zip Style Method - Expanded Edition"
+ "label": ["Sony BMG Music Entertainment"
+ {"style": ["Thug Rap"
+ "country": "US"
+ "year": "1998"
+ "cover_image": "https://img.discogs.com/fV7IadMZvqrnLS6tyXn3qtf_hzo=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1789843-1498843319-9681.jpeg.jpg"
+ "title": "Various - We Can't Be Stopped"
+ "label": ["No Limit Records"
+ {"style": ["Acoustic"
+ "country": "Europe"
+ "year": "2010"
+ "cover_image": "https://img.discogs.com/5ZLyoIvjzmILUJp9QTqfLPteZ8E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2513829-1292355649.jpeg.jpg"
+ "title": "Junip - Fields"
+ "label": ["City Slang"
+ {"style": ["Thug Rap"
+ "country": "US"
+ "year": "1998"
+ "cover_image": "https://img.discogs.com/fV7IadMZvqrnLS6tyXn3qtf_hzo=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1789843-1498843319-9681.jpeg.jpg"
+ "title": "Various - We Can't Be Stopped"
+ "label": ["No Limit Records"
+ {"style": ["Drum n Bass"
+ "country": "Poland"
+ "year": "2015"
+ "cover_image": "https://img.discogs.com/ru5DV7eN-zMfsF3AlXDHOEIM8Nc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7717141-1450052784-5670.jpeg.jpg"
+ "title": "Switch Technique - Scars"
+ "label": ["Union Recordings"]
+ {"style": ["Drum n Bass"
+ "country": "Poland"
+ "year": "2015"
+ "cover_image": "https://img.discogs.com/ru5DV7eN-zMfsF3AlXDHOEIM8Nc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7717141-1450052784-5670.jpeg.jpg"
+ "title": "Switch Technique - Scars"
+ "label": ["Union Recordings"]
+ {"style": []
+ "country": "Germany"
+ "year": "2010"
+ "cover_image": "https://img.discogs.com/PSGTlubRMMMMQZqqlr_9rlq3MGM=/fit-in/500x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2442256-1284291473.jpeg.jpg"
+ "title": "Junip - Fields"
+ "label": ["City Slang"]
+ {"style": ["Techno"]
+ "country": "Poland"
+ "year": "1998"
+ "cover_image": "https://img.discogs.com/wzZQpgreKLC6PEglVMTNWUN-afQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3958265-1365544681-5396.jpeg.jpg"
+ "title": "Holy Ghost* - The Mind Control Of Candy Jones"
+ "label": ["Outside Media"]
+ {"style": ["Space Rock"]
+ "country": "Italy"
+ "year": "1998"
+ "cover_image": "https://img.discogs.com/hfKy-qgIhJkJ4V5nLRUX03yPYWY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1961730-1521217458-6042.jpeg.jpg"
+ "title": "Hawkwind - The Elf And The Hawk"
+ "label": ["Black Widow Records"]
+ {"style": ["Space Rock"]
+ "country": "Italy"
+ "year": "1998"
+ "cover_image": "https://img.discogs.com/hfKy-qgIhJkJ4V5nLRUX03yPYWY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1961730-1521217458-6042.jpeg.jpg"
+ "title": "Hawkwind - The Elf And The Hawk"
+ "label": ["Black Widow Records"]
+ {"style": []
+ "country": "Europe"
+ "year": "1995"
+ "cover_image": "https://img.discogs.com/MMcIujYDm8D06O1lBfLfq9a7PRs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-245697-1504438757-3498.jpeg.jpg"
+ "title": "Raekwon - Only Built 4 Cuban Linx..."
+ "label": ["Loud Records"
+ {"style": ["Goth Rock"]
+ "country": "Germany"
+ "year": "1993"
+ "cover_image": "https://img.discogs.com/AErFeHKCJqkv22aNUWe3WMlAWbo=/fit-in/475x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-688795-1147937951.jpeg.jpg"
+ "title": "Every New Dead Ghost - River Of Souls"
+ "label": ["Apollyon"
+ {"style": ["Goth Rock"
+ "country": "UK"
+ "year": "2007"
+ "cover_image": "https://img.discogs.com/ENglHzX1dslZrh5Wfur4oZxCmgQ=/fit-in/393x392/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1704259-1238086176.jpeg.jpg"
+ "title": "Andi Sex Gang - Perception In The Heart Of Darkness"
+ "label": ["Pink Noise"]
+ {"style": ["Techno"
+ "country": "Germany"
+ "year": "1997"
+ "cover_image": "https://img.discogs.com/1htmXjUEtOC4QodN5BVGaATSlhg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-734-1128703047.jpeg.jpg"
+ "title": "Various - Tresor.4 - Solid"
+ "label": ["Tresor"
+ {"style": ["Goth Rock"]
+ "country": "Austria"
+ "year": "2005"
+ "cover_image": "https://img.discogs.com/o4VmICcf9gOKNsFWcnlC9dlB5MU=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1249880-1203744587.jpeg.jpg"
+ "title": "Every New Dead Ghost - The Final Ascension - A Retrospective 88-92"
+ "label": ["Strobelight Records"
+ {"style": ["Goa Trance"
+ "country": "Australia"
+ "year": "1998"
+ "cover_image": "https://img.discogs.com/wOeSJDj-UlhfeBYvwQA8_nJfHRU=/fit-in/512x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-205040-1427012652-4401.jpeg.jpg"
+ "title": "Various - Psy-Harmonics 4 - Out On The Full"
+ "label": ["Psy-Harmonics"
+ {"style": []
+ "country": "Europe"
+ "year": "2016"
+ "cover_image": "https://img.discogs.com/8G5M-PHcW1wsB_DfJPZhjacS4EQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8738386-1486758492-8191.jpeg.jpg"
+ "title": "Chef Raekwon* - Only Built 4 Cuban Linx..."
+ "label": ["Music On Vinyl"
+ {"style": ["Folk Rock"
+ "country": "US"
+ "year": "2010"
+ "cover_image": "https://img.discogs.com/wbZpEiXP8PA-1oZ8x8em7FXxu2Q=/fit-in/500x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2597177-1292376189.jpeg.jpg"
+ "title": "Junip - Fields"
+ "label": ["Mute Corporation"]
+ {"style": []
+ "country": "US"
+ "year": "2010"
+ "cover_image": "https://img.discogs.com/HWXcRR7ToIkh9q2JAdYY7Kw02Q8=/fit-in/600x571/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756489-1523680504-7603.jpeg.jpg"
+ "title": "Ghostface Killah - Supreme Clientele"
+ "label": ["Get On Down"
+ {"style": ["Prog Rock"]
+ "country": "UK"
+ "year": "2015"
+ "cover_image": "https://img.discogs.com/sGpDW3RgY6t8GKtdpHFgxTYo5sg=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7750569-1448021509-4018.jpeg.jpg"
+ "title": "Various - P38: Shock The Monkey"
+ "label": ["Prog Magazine"]
+ {"style": ["Hardcore Hip-Hop"
+ "country": "US"
+ "year": "1995"
+ "cover_image": "https://img.discogs.com/2-ZmdFBfwsuaecAQ5C3OXPzZsC8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-184946-1320361940.jpeg.jpg"
+ "title": "Chef Raekwon* - Only Built 4 Cuban Linx..."
+ "label": ["Loud Records"
+ {"style": ["Space Rock"]
+ "country": "Italy"
+ "year": "1998"
+ "cover_image": "https://img.discogs.com/0EWsaqwTGDryhC1ARrAXvAo8S_Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2557072-1290312554.jpeg.jpg"
+ "title": "Hawkwind - The Elf And The Hawk"
+ "label": ["Black Widow Records"]
+ {"style": []
+ "country": "US"
+ "year": "2000"
+ "cover_image": "https://img.discogs.com/NEWOPvWuCFYcMp1Oog4tocRJqX8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-257756-1371523177-8303.jpeg.jpg"
+ "title": "Ghostface Killah - Supreme Clientele"
+ "label": ["Epic"
